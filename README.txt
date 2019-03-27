@@ -1,5 +1,10 @@
 NOTICE: I do NOT guarantee anything on this connector.  It is up to you to ensure the fitment, rigidity, and design with your setup.  I take no ownership of any damage you may do.
 
+NOTES ON CONNECTORS: Female 3.28.19 is the latest and lowest cost connector
+Male Stubby is a shorter version of the male connector allowing visibility of pin fitment
+
+-----------------------------------------------------------------------------------------
+
 The male connector is designed to work with terminal strips made by SamTec.
 You will need:
 Quantity: 1, Model: MTMM-108-14-T-S-276
@@ -26,7 +31,7 @@ https://www.te.com/usa-en/product-2-1703930-1.html
 
 
 Printing was completed using an outside 3D printing service, I would recommend 3DHubs.com
-Connectors are printed in Tough resin (ABS-like) (SLA/DLP), 25?m layering
+Connectors are printed in Heat Resistance (SLA/DLP), 25 micron (mc) layering
 
 
 
