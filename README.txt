@@ -1,8 +1,6 @@
 NOTICE: I do NOT guarantee anything on this connector.  It is up to you to ensure the fitment, rigidity, and design with your setup.  I take no ownership of any damage you may do.
 
-NOTES ON CONNECTORS: Female 3.28.19 is the latest and lowest cost connector
-Male Stubby is a shorter version of the male connector allowing visibility of pin fitment
-Male 3.28.19 version is designed to reduce friction at the corners as parts seem to experience the most wear at that location
+NOTES ON CONNECTORS: Pricing shown is that at 3dhubs.com for heat resistant resin with 25 micron resolution
 
 -----------------------------------------------------------------------------------------
 
