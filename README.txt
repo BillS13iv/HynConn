@@ -44,8 +44,8 @@ OD	0.04"
 
 -----------------------------------------------------------------------------------------
 
-Printing was completed using an outside 3D printing service, I would recommend Shapeways
-Connectors are printed in "Smoothest - Fine Detail Plastic"
+Printing was completed using an outside 3D printing service, I would recommend Shapeways.
+Connectors are printed in "Smoothest - Fine Detail Plastic".
 
 
 
