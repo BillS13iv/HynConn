@@ -8,19 +8,19 @@ The male connector designed to work with terminal strips are made by SamTec.
 You will need:
 Quantity: 1, Model: MTMM-108-14-T-S-276
 https://www.samtec.com/products/mtmm-108-14-t-s-276
-
 Quantity: 2, Model: MTMM-102-14-T-S-276
 https://www.samtec.com/products/mtmm-102-14-t-s-276
 
 The male connector designed to work with socket strips are also made by SamTec.
 You will need:
-Quantity: 1, Model: MTMM-108-14-T-S-276
+Quantity: 1, Model: ESQT-108-02-F-S-309
 https://www.samtec.com/products/ESQT-108-02-F-S-309
-
-Quantity: 2, Model: MTMM-102-14-T-S-276
+Quantity: 1, Model: MTMM-108-15-T-S-541
+https://www.samtec.com/products/mtmm-108-15-t-s-541
+Quantity: 2, Model: ESQT-102-02-F-S-309
 https://www.samtec.com/products/ESQT-102-02-F-S-309
-
-
+Quantity: 2, Model: MTMM-102-15-T-S-541
+https://www.samtec.com/products/mtmm-102-15-t-s-541
 
 The 7mm end (shorter end) is loaded into the connector.  The longer end is used for connecting wires.
 
@@ -31,11 +31,21 @@ You will need:
 Quantity: 7 to 12, Model: 2-1703930-1
 https://www.te.com/usa-en/product-2-1703930-1.html
 
-   
+-----------------------------------------------------------------------------------------
 
+For wire, the connectors are desiged for 24 gauge space-saver wire, with an outer diameter of 0.04"
+https://www.mcmaster.com/6450t23
 
-Printing was completed using an outside 3D printing service, I would recommend 3DHubs.com
-Connectors are printed in Heat Resistance (SLA/DLP), 25 micron (mc) layering
+Wire Gauge 	24
+Current	2 A @ 86° F
+Voltage	600V AC
+Temperature Range	-40° to 220° F
+OD	0.04"
+
+-----------------------------------------------------------------------------------------
+
+Printing was completed using an outside 3D printing service, I would recommend Shapeways
+Connectors are printed in "Smoothest - Fine Detail Plastic"
 
 
 
