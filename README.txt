@@ -1,6 +1,6 @@
 NOTICE: I do NOT guarantee anything on this connector.  It is up to you to ensure the fitment, rigidity, and design with your setup.  I take no ownership of any damage you may do.
 
-NOTES ON CONNECTORS: Pricing shown is that at 3dhubs.com for heat resistant resin with 25 micron resolution
+NOTES ON CONNECTORS: Pricing shown is that at Shapeways.com for Fine Detail Plastic with Smoothest Finish
 
 -----------------------------------------------------------------------------------------
 
