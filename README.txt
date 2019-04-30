@@ -53,6 +53,24 @@ Connectors are printed in "Smoothest - Fine Detail Plastic".
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Note: 
 An older design of the the male connector used terminal strips made by SamTec
 Quantity: 1, Model: MTMM-108-14-T-S-276
