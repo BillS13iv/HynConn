@@ -4,13 +4,6 @@ NOTES ON CONNECTORS: Pricing shown is that at Shapeways.com for Fine Detail Plas
 
 -----------------------------------------------------------------------------------------
 
-The male connector designed to work with terminal strips are made by SamTec.
-You will need:
-Quantity: 1, Model: MTMM-108-14-T-S-276
-https://www.samtec.com/products/mtmm-108-14-t-s-276
-Quantity: 2, Model: MTMM-102-14-T-S-276
-https://www.samtec.com/products/mtmm-102-14-t-s-276
-
 The male connector designed to work with socket strips are also made by SamTec.
 You will need:
 Quantity: 1, Model: ESQT-108-02-F-S-309
@@ -47,6 +40,23 @@ OD	0.04"
 Printing was completed using an outside 3D printing service, I would recommend Shapeways.
 Connectors are printed in "Smoothest - Fine Detail Plastic".
 
+-----------------------------------------------------------------------------------------
 
 
+
+
+
+
+
+
+
+
+
+
+Note: 
+An older design of the the male connector used terminal strips made by SamTec
+Quantity: 1, Model: MTMM-108-14-T-S-276
+https://www.samtec.com/products/mtmm-108-14-t-s-276
+Quantity: 2, Model: MTMM-102-14-T-S-276
+https://www.samtec.com/products/mtmm-102-14-t-s-276
 
