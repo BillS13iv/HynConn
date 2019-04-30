@@ -1,9 +1,12 @@
 NOTICE: I do NOT guarantee anything on this connector.  It is up to you to ensure the fitment, rigidity, and design with your setup.  I take no ownership of any damage you may do.
 
-NOTES ON CONNECTORS: Pricing shown is that at Shapeways.com for Fine Detail Plastic with Smoothest Finish
-Information on the material can be found here: https://www.shapeways.com/materials/fine-detail-plastic
-The polymer (for fine detail plastic) is a poly-acrylic that is rated for 176F (80C), but has poor UV resistance 
-It is recommended that if you believe the connector may be exposed to sun light, to coat the connector in a UV-resistant coating such as Krylons UV-resistant clear coat (https://www.krylon.com/products/uvresistant-clear-coating/)
+NOTES ON CONNECTORS: Pricing shown is that at Shapeways.com for Fine Detail Plastic with Smoothest Finish.
+Information on the material can be found here: https://www.shapeways.com/materials/fine-detail-plastic.
+The polymer (for fine detail plastic) is a poly-acrylic that is rated for 176F (80C), but has poor UV resistance .
+It is recommended that if you believe the connector may be exposed to sun light, to coat the connector in a UV-resistant coating such as Krylons UV-resistant clear coat (https://www.krylon.com/products/uvresistant-clear-coating/).
+The .stl files have been optimized and are ready to be sent to a printing service.
+The .skp are Sketchup files (version 2018 or later) that can be used to modify the connector if need be.
+If you change the connector design, it is recommended to optimize the drawing using a service like those by MakePrintable (https://makeprintable.com/) to optimize the .stl.  You may find this optimization will reduce printing costs significantly.
 
 -----------------------------------------------------------------------------------------
 
