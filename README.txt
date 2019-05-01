@@ -41,6 +41,15 @@ Voltage	600V AC
 Temperature Range	-40° to 220° F
 OD	0.04"
 
+Or for 24 gauge standard wire, with an outer diameter of 0.05"
+https://www.mcmaster.com/8251t1
+
+Wire Gauge 	24
+Current	7 A @ 86° F
+Voltage	300V AC
+Temperature Range	-40° to 220° F
+OD	0.05"
+
 -----------------------------------------------------------------------------------------
 
 Printing was completed using an outside 3D printing service, I would recommend Shapeways.
