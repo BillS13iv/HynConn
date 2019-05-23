@@ -27,7 +27,7 @@ The 7mm end (shorter end) is loaded into the connector.  The longer end is used 
 
 The female connector uses receptacles made by TE:
 You will need:
-Quantity: 7 to 12, Model: 2-1703930-1
+Quantity: 14 to 24, Model: 2-1703930-1
 https://www.te.com/usa-en/product-2-1703930-1.html
 
 -----------------------------------------------------------------------------------------
