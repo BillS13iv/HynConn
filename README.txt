@@ -32,14 +32,14 @@ https://www.te.com/usa-en/product-2-1703930-1.html
 
 -----------------------------------------------------------------------------------------
 
-For wire, the connectors are desiged for 24 gauge space-saver wire, with an outer diameter of 0.04"
-https://www.mcmaster.com/6450t23
+For wire, the connectors are desiged for 26 gauge space-saver wire, with an outer diameter of 0.05"
+https://www.mcmaster.com/8054t11
 
-Wire Gauge 	24
-Current	2 A @ 86° F
-Voltage	600V AC
+Wire Gauge 	26
+Current	5 A @ 86° F
+Voltage	300V AC
 Temperature Range	-40° to 220° F
-OD	0.04"
+OD	0.05"
 
 Or for 24 gauge standard wire, with an outer diameter of 0.05"
 https://www.mcmaster.com/8251t1
